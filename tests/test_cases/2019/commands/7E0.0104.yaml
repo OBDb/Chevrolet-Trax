@@ -1,6 +1,14 @@
 command_id: 7E0.0104
 test_cases:
 - expected_values:
+    LOAD_PCT: 10.98039
+  response: |-
+    0104
+    7E80341041C
+- expected_values:
+    LOAD_PCT: 53.72549
+  response: '7E8 03 41 04 89 '
+- expected_values:
     LOAD_PCT: 0
   response: '7E803410400'
 - expected_values:
