@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     CHEVROLET_INJECTOR_DUTY_CYCLE_BANK_1: 1.215
   response: 7E8056212C30051
+- expected_values:
+    CHEVROLET_INJECTOR_DUTY_CYCLE_BANK_1: 2.4
+  response: 7E8056212C300A0
+- expected_values:
+    CHEVROLET_INJECTOR_DUTY_CYCLE_BANK_1: 2.46
+  response: 7E8056212C300A4
