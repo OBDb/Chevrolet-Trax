@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    CHEVROLET_MAF: 2.6
+  response: '7E8056200100104'
+- expected_values:
+    CHEVROLET_MAF: 7.13
+  response: 7E80562001002C9
+- expected_values:
+    CHEVROLET_MAF: 42.29
+  response: '7E8056200101085'
