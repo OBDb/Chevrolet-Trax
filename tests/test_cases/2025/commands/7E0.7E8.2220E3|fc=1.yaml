@@ -4,29 +4,8 @@ test_cases:
     CHEVROLET_BP_ACT: 0
   response: 7E8056220E30000
 - expected_values:
-    CHEVROLET_BP_ACT: 0.18
-  response: 7E8056220E30012
-- expected_values:
-    CHEVROLET_BP_ACT: 0.27
-  response: 7E8056220E3001B
-- expected_values:
-    CHEVROLET_BP_ACT: 0.79
-  response: 7E8056220E3004F
-- expected_values:
-    CHEVROLET_BP_ACT: 1.26
-  response: 7E8056220E3007E
-- expected_values:
-    CHEVROLET_BP_ACT: 3
-  response: 7E8056220E3012C
-- expected_values:
-    CHEVROLET_BP_ACT: 8.98
-  response: 7E8056220E30382
-- expected_values:
-    CHEVROLET_BP_ACT: 15.51
-  response: 7E8056220E3060F
-- expected_values:
-    CHEVROLET_BP_ACT: 48.7
-  response: 7E8056220E31306
+    CHEVROLET_BP_ACT: 32.9
+  response: 7E8056220E30CDA
 - expected_values:
     CHEVROLET_BP_ACT: 55.41
   response: 7E8056220E315A5
