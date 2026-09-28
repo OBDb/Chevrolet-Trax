@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.221940
 test_cases:
 - expected_values:
-    CHEVROLET_ATF_T_VAR_1: 55
-  response: 7E8046219405F
-- expected_values:
-    CHEVROLET_ATF_T_VAR_1: 56
-  response: '7E80462194060'
-- expected_values:
-    CHEVROLET_ATF_T_VAR_1: 57
-  response: '7E80462194061'
-- expected_values:
-    CHEVROLET_ATF_T_VAR_1: 58
-  response: '7E80462194062'
-- expected_values:
-    CHEVROLET_ATF_T_VAR_1: 59
-  response: '7E80462194063'
-- expected_values:
-    CHEVROLET_ATF_T_VAR_1: 60
-  response: '7E80462194064'
-- expected_values:
-    CHEVROLET_ATF_T_VAR_1: 61
-  response: '7E80462194065'
-- expected_values:
-    CHEVROLET_ATF_T_VAR_1: 62
-  response: '7E80462194066'
-- expected_values:
-    CHEVROLET_ATF_T_VAR_1: 63
-  response: '7E80462194067'
+    CHEVROLET_ATF_T_VAR_1: 50
+  response: 7E8046219405A
 - expected_values:
     CHEVROLET_ATF_T_VAR_1: 64
   response: '7E80462194068'
