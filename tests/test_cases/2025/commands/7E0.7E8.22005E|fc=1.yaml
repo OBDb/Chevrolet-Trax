@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22005E|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_FUEL_RATE: 0.95
-  response: 7E80562005E0013
+    CHEVROLET_FUEL_RATE: 0
+  response: 7E80562005E0000
 - expected_values:
     CHEVROLET_FUEL_RATE: 11.45
   response: 7E80562005E00E5
