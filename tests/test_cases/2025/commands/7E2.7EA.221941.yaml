@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.221941
+test_cases:
+- expected_values:
+    CHEVROLET_TRANS_ISS: 0
+  response: 7EA056219410000
+- expected_values:
+    CHEVROLET_TRANS_ISS: 3325.5
+  response: 7EA0562194133F6
+- expected_values:
+    CHEVROLET_TRANS_ISS: 6881.25
+  response: 7EA056219416B85
