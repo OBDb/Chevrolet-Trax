@@ -4,5 +4,5 @@ test_cases:
     CHEVROLET_CABIN_AC_HIGH_SIDE_V: 0.9
   response: 7E8046211442D
 - expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 1.54
-  response: 7E8046211444D
+    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 2.22
+  response: 7E8046211446F
