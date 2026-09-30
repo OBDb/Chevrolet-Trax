@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221144
 test_cases:
 - expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 0.82
+    TRAX_CABIN_AC_HIGH_SIDE_V: 0.82
   response: '7E80462114429'
 - expected_values:
-    CHEVROLET_CABIN_AC_HIGH_SIDE_V: 2.22
+    TRAX_CABIN_AC_HIGH_SIDE_V: 2.22
   response: 7E8046211446F

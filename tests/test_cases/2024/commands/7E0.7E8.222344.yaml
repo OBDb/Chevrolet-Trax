@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.222344
 test_cases:
 - expected_values:
-    CHEVROLET_EOP_ABS: 96
+    TRAX_EOP_ABS: 96
   response: '7E80462234418'
 - expected_values:
-    CHEVROLET_EOP_ABS: 256
+    TRAX_EOP_ABS: 256
   response: '7E80462234440'
 - expected_values:
-    CHEVROLET_EOP_ABS: 260
+    TRAX_EOP_ABS: 260
   response: '7E80462234441'
