@@ -4,8 +4,8 @@ test_cases:
     CHEVROLET_BP_ACT: 0
   response: 7E8056220E30000
 - expected_values:
-    CHEVROLET_BP_ACT: 56.28
-  response: 7E8056220E315FC
+    CHEVROLET_BP_ACT: 10.23
+  response: 7E8056220E303FF
 - expected_values:
     CHEVROLET_BP_ACT: 70.06
   response: 7E8056220E31B5E
