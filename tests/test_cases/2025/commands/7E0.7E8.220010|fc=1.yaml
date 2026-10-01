@@ -7,5 +7,5 @@ test_cases:
     TRAX_MAF: 2.55
   response: 7E80562001000FF
 - expected_values:
-    TRAX_MAF: 47.26
-  response: '7E8056200101276'
+    TRAX_MAF: 46.78
+  response: '7E8056200101246'
