@@ -4,5 +4,5 @@ test_cases:
     TRAX_AIR_TEMP_AMBIENT_2: 14
   response: 7E80462232C36
 - expected_values:
-    TRAX_AIR_TEMP_AMBIENT_2: 26
-  response: 7E80462232C42
+    TRAX_AIR_TEMP_AMBIENT_2: 31
+  response: 7E80462232C47

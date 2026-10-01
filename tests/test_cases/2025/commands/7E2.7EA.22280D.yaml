@@ -4,5 +4,5 @@ test_cases:
     TRAX_ATF_T_VAR_6: 25
   response: 7EA0462280D41
 - expected_values:
-    TRAX_ATF_T_VAR_6: 84
-  response: 7EA0462280D7C
+    TRAX_ATF_T_VAR_6: 87
+  response: 7EA0462280D7F
