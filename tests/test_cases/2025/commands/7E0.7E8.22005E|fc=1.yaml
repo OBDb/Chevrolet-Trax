@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22005E|fc=1
 test_cases:
 - expected_values:
-    CHEVROLET_FUEL_RATE: 0
+    TRAX_FUEL_RATE: 0
   response: 7E80562005E0000
 - expected_values:
-    CHEVROLET_FUEL_RATE: 12.65
+    TRAX_FUEL_RATE: 12.65
   response: 7E80562005E00FD
 - expected_values:
-    CHEVROLET_FUEL_RATE: 13.65
+    TRAX_FUEL_RATE: 13.65
   response: 7E80562005E0111

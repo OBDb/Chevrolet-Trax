@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.222366
 test_cases:
 - expected_values:
-    CHEVROLET_ACTIVE_GRILLE_SHUTTER_POS: 100
+    TRAX_ACTIVE_GRILLE_SHUTTER_POS: 100
   response: 7E804622366FF

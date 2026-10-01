@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221207
 test_cases:
 - expected_values:
-    CHEVROLET_MISFIRES_C3_CUR: 0
+    TRAX_MISFIRES_C3_CUR: 0
   response: '7E80462120700'
 - expected_values:
-    CHEVROLET_MISFIRES_C3_CUR: 1
+    TRAX_MISFIRES_C3_CUR: 1
   response: '7E80462120701'
 - expected_values:
-    CHEVROLET_MISFIRES_C3_CUR: 2
+    TRAX_MISFIRES_C3_CUR: 2
   response: '7E80462120702'
 - expected_values:
-    CHEVROLET_MISFIRES_C3_CUR: 4
+    TRAX_MISFIRES_C3_CUR: 4
   response: '7E80462120704'
