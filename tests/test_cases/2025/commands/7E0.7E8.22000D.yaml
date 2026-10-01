@@ -4,5 +4,5 @@ test_cases:
     TRAX_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    TRAX_VSS: 148
-  response: 7E80462000D94
+    TRAX_VSS: null
+  response: 7E80462000DFF
