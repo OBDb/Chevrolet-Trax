@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220042
 test_cases:
 - expected_values:
-    TRAX_M_CTRL_MODULE_V: 12.184
-  response: 7E8056200422F98
+    TRAX_M_CTRL_MODULE_V: 12.13
+  response: 7E8056200422F62
 - expected_values:
-    TRAX_M_CTRL_MODULE_V: 12.804
-  response: '7E8056200423204'
+    TRAX_M_CTRL_MODULE_V: 12.548
+  response: '7E8056200423104'
 - expected_values:
     TRAX_M_CTRL_MODULE_V: 13.823
   response: 7E80562004235FF

@@ -7,5 +7,5 @@ test_cases:
     TRAX_TC_SLIP_VSS: 31.875
   response: 7EA0562199100FF
 - expected_values:
-    TRAX_TC_SLIP_VSS: -6.5
-  response: 7EA05621991FFCC
+    TRAX_TC_SLIP_VSS: -18.5
+  response: 7EA05621991FF6C
