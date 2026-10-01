@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22002F|fc=1
 test_cases:
 - expected_values:
-    TRAX_FLI: 16.47059
-  response: 7E80462002F2A
+    TRAX_FLI: 16.07843
+  response: 7E80462002F29
 - expected_values:
     TRAX_FLI: 67.45098
   response: 7E80462002FAC
