@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221202
 test_cases:
 - expected_values:
-    CHEVROLET_MIS_HISTORY_2: 0
+    TRAX_MIS_HISTORY_2: 0
   response: '7E8056212020000'
 - expected_values:
-    CHEVROLET_MIS_HISTORY_2: 1
+    TRAX_MIS_HISTORY_2: 1
   response: '7E8056212020001'
 - expected_values:
-    CHEVROLET_MIS_HISTORY_2: 2
+    TRAX_MIS_HISTORY_2: 2
   response: '7E8056212020002'
