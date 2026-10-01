@@ -4,8 +4,8 @@ test_cases:
     TRAX_FUEL_RATE: 0
   response: 7E80562005E0000
 - expected_values:
-    TRAX_FUEL_RATE: 12.65
-  response: 7E80562005E00FD
+    TRAX_FUEL_RATE: 12.7
+  response: 7E80562005E00FE
 - expected_values:
     TRAX_FUEL_RATE: 13.65
   response: 7E80562005E0111
